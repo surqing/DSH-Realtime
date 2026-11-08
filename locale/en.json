@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Voice call",
+    "description": "Talk to the current chat agent with OpenAI Realtime. Spoken requests become normal chat messages, and finished replies are summarized out loud."
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "语音通话",
+    "description": "用 OpenAI Realtime 和当前会话的 agent 通话：说出的请求会变成普通聊天消息，完成后的回复会语音播报摘要。"
+  }
+}
